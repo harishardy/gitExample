@@ -10,6 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    var ans = 0
+    
+    let key = 0
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
