@@ -9,6 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    
+    var char = 6
 
     override func viewDidLoad() {
         super.viewDidLoad()
