@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     
     let key = 0
     
+    var lock = 0
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
